@@ -16,7 +16,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Update a file through a Python algorithm]()
+  - [Update a file through a Python algorithm](https://github.com/MustafaMapple/MustafaMapple/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf)
 
 
 
