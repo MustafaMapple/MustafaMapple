@@ -17,6 +17,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - https://github.com/MustafaMapple/MustafaMapple/blob/fed8797fbb2ac384b16d5adafb98afd78d50a0fc/%5BDONE%5D%20Algorithm%20for%20file%20updates%20in%20Python.pdf
 
 <h2>📺 Popular YouTube Videos</h2>
 
