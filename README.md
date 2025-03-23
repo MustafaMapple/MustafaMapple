@@ -3,7 +3,7 @@
  <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Governance, Risk, and Compliance)</b>
-  - [Conducting a security audit](https://github.com/MustafaMapple/Conducting-a-security-audit/blob/main/README.md)
+  - [Conducting a security audit](https://github.com/MustafaMapple/MustafaMapple/tree/main/Conducting%20a%20security%20audit)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
