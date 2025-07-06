@@ -2,13 +2,13 @@
 
  <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Security Operations / Incident Response</b>
+- <b>🚨Security Operations / Incident Response</b>
   - [ICMP Flood Response (NIST CSF)](https://github.com/MustafaMapple/MustafaMapple/blob/main/Incident%20report%20analysis.pdf)
-- <b>Governance, Risk, and Compliance</b>
+- <b>🛡Governance, Risk, and Compliance</b>
   - [Conducting a security audit](https://github.com/MustafaMapple/MustafaMapple/tree/main/Conducting%20a%20security%20audit)
-- <b>Structured Query Language (SQL)</b>
+- <b>🗃Structured Query Language (SQL)</b>
   - [Applying filters to SQL queries](https://github.com/MustafaMapple/MustafaMapple/blob/main/_Apply%20filters%20to%20SQL%20queries%20.pdf)
-- <b>Python</b>
+- <b>🐍Python</b>
   - [Update a file through a Python algorithm](https://github.com/MustafaMapple/MustafaMapple/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf)
 
 
