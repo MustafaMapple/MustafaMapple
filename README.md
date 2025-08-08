@@ -3,7 +3,7 @@
  <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>🐧Linux</b>
-  -(https://github.com/MustafaMapple/MustafaMapple/blob/main/File%20permissions%20in%20Linux.pdf)
+  - [Managing permissions in Linux](https://github.com/MustafaMapple/MustafaMapple/tree/main/Conducting%20a%20security%20audit)
 - <b>🚨Security Operations / Incident Response</b>
   - [ICMP Flood Response (NIST CSF)](https://github.com/MustafaMapple/MustafaMapple/tree/main/ICMP%20Flood%20Response%20(NIST%20CSF))
 - <b>🛡Governance, Risk, and Compliance</b>
