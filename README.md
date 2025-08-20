@@ -8,6 +8,7 @@
   - [ICMP Flood Response (NIST CSF)](https://github.com/MustafaMapple/MustafaMapple/tree/main/ICMP%20Flood%20Response%20(NIST%20CSF))
 - <b>🛡Governance, Risk, and Compliance</b>
   - [Conducting a security audit](https://github.com/MustafaMapple/MustafaMapple/tree/main/Conducting%20a%20security%20audit)
+  - [E-commerce Risk Assessment](https://github.com/MustafaMapple/MustafaMapple/tree/main/E-commerce%20Risk%20Assessment)
 - <b>🗃Structured Query Language (SQL)</b>
   - [Applying filters to SQL queries](https://github.com/MustafaMapple/MustafaMapple/blob/main/_Apply%20filters%20to%20SQL%20queries.pdf)
 - <b>🐍Python</b>
