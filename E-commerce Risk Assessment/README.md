@@ -7,3 +7,6 @@ I have recently joined the cybersecurity team at an e-commerce company that stor
 My current assignment is to conduct a vulnerability assessment to highlight the potential dangers of keeping the server open to the public. I will need to prepare a detailed report that outlines how this vulnerability impacts business operations and proposes methods to enhance the security of the database.
 
 The risk analysis in this report is guided by the principles outlined in **NIST SP 800-30 Rev. 1.**
+
+<img width="250" height="250" alt="Gemini_Generated_Image_jfch0ajfch0ajfch" src="https://github.com/user-attachments/assets/5f0623e7-4cf9-4f19-a4c3-788827eab413" />
+
